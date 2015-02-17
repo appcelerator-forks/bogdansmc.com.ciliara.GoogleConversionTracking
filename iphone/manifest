@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: GoogleConversionTracking
+author: Bogdan Pankiv
+license: Apache License Version 2.0
+copyright: Copyright (c) 2015 by Ciliara Trading Limited
+
+# these should not be edited
+name: GoogleConversionTracking
+moduleid: com.ciliara.GoogleConversionTracking
+guid: ee7afc1e-13ec-4b29-b419-90c8172a677e
+platform: iphone
+minsdk: 3.5.0.GA
